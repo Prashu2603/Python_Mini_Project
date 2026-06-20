@@ -1,5 +1,3 @@
-# Shopping Cart System
-
 cart = {}
 
 while True:
