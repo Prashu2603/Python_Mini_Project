@@ -1,5 +1,3 @@
-# Library Book Management System
-
 library = {}
 
 while True:
